@@ -27,7 +27,9 @@ To use this application, you need:
 ---
 
 ## How to Use  
-1. clone this repo to your local machine.
-2. Open the `index.html` file in your browser.
-3. Allow the browser to access your location.
-4. The closest governorate to your location will be displayed in an alert box.
+1. Open [a link](https://getuserlocationbymohamedabdellhay.netlify.app/) in your browser.
+2. run app in your local machine.
+    * clone this repo to your local machine.
+    * Open the `index.html` file in your browser.
+    * Allow the browser to access your location.
+    * The closest governorate to your location will be displayed in an alert box.
