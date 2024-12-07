@@ -27,19 +27,7 @@ To use this application, you need:
 ---
 
 ## How to Use  
-1. Copy the JavaScript code from the file `script.js`.  
-2. Include it in an HTML file:  
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Governorate Finder</title>
-</head>
-<body>
-    <h1>Find Your Governorate</h1>
-    <script src="script.js"></script>
-</body>
-</html>
+1. clone this repo to your local machine.
+2. Open the `index.html` file in your browser.
+3. Allow the browser to access your location.
+4. The closest governorate to your location will be displayed in an alert box.
